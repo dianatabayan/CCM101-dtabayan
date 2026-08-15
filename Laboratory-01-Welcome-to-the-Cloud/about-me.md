@@ -1,0 +1,1 @@
+Hi, I'm Diana J. Tabayan! I'm 20 years old, originally from Balungao, Pangasinan. I'm currently studying BSIT (Bachelor of Science in Information Technology) at University of Eastern Pangasinan. In my free time, I enjoy playing games, watching movies, and cooking. I'm always up for trying new recipes or discovering a good movie to watch.
