@@ -10,9 +10,13 @@ GCP – Compute Engine: A small machine type such as e2-micro can be used for li
 Recommended Choice
 
 Amazon EC2 would be a good choice because it supports Ubuntu and offers small, flexible virtual machine options for low-resource applications.
-Terminal Output
+
+## Terminal Output
 
 Operating System:
+
 CPU Information:
+
 Memory:
+
 Disk Space:
