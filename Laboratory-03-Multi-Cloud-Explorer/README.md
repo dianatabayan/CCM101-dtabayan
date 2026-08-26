@@ -1,4 +1,5 @@
-## Linux Server Investigation Operating System: Ubuntu 24.04.4 LTS (checked using lsb_release -a) CPU Information: Intel Xeon E312xx (Sandy Bridge, IBRS update), 1 core (checked using lscpu) Memory: 1.9 GiB total RAM (checked using free -h) Disk Space: 19 GB total disk space on the main partition (checked using df -h)
+## Linux Server Investigation
+Operating System: Ubuntu 24.04.4 LTS (checked using lsb_release -a) CPU Information: Intel Xeon E312xx (Sandy Bridge, IBRS update), 1 core (checked using lscpu) Memory: 1.9 GiB total RAM (checked using free -h) Disk Space: 19 GB total disk space on the main partition (checked using df -h)
 Cloud Migration
 
 Since this Linux server has only 1 CPU core, 1.9 GiB of RAM, and 19 GB of storage, it is suitable for a small virtual machine on any of the three major cloud platforms.
