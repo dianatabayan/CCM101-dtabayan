@@ -18,10 +18,5 @@ Since this Linux server has only **1 CPU core, 1.9 GiB of RAM, and 19 GB of stor
 
 ## Terminal Output
 
-Operating System:
-
-CPU Information:
-
-Memory:
-
-Disk Space:
+<img width="957" height="730" alt="Screenshot 2026-08-27 7 35 38 PM" src="https://github.com/user-attachments/assets/bc4d022f-520f-41de-b10d-c6e08fa767c9" />
+<img width="957" height="556" alt="Screenshot 2026-08-27 7 35 58 PM" src="https://github.com/user-attachments/assets/e782e9b9-ea24-4351-bc8b-9b1560aef328" />
