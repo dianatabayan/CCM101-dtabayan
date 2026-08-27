@@ -52,3 +52,4 @@ GCP is commonly used for:
 * **Gaming and video streaming**
 * **Startups and research**
 * **Data storage and backup**
+<img width="1322" height="768" alt="gcp" src="https://github.com/user-attachments/assets/d2cd6785-6f36-4533-9bed-74e26ed6e25f" />
