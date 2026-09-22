@@ -1,3 +1,5 @@
+## Laboratory 05: Cloud Data Engineer
+
 # Mission Overview
 
 In this mission, I worked as a **cloud data engineer** for a client who needed a reliable solution for storing user-uploaded images. I researched the three main types of cloud storage—**block, file, and object storage**—and evaluated their common use cases. I then deployed a **MinIO object storage server** using Docker and accessed its web console to create a bucket and upload a sample file.
