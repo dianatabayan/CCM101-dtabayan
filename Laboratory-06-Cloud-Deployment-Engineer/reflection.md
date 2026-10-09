@@ -1,5 +1,4 @@
-cd ~/CCM101-dtabayan/Laboratory-06-Cloud-Deployment-Engineer
-cat > reflection.md << 'EOF'
+
 # Mission Reflection
 
 ## 1. How does writing a docker-compose.yml file make a cloud engineer's job easier?
@@ -16,4 +15,4 @@ It felt surprising and empowering. A full enterprise-grade storage system was ru
 
 ## 5. How has your understanding of Cloud Computing evolved since Mission 1?
 At the start, I thought cloud computing mostly meant storing files online. Now I understand it is about infrastructure defined as code, containers, multi-tier design, and automation. I can see how services are deployed, tested, and removed quickly, and how documentation and version control are part of an engineer's work.
-EOF
+
