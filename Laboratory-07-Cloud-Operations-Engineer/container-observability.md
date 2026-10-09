@@ -10,3 +10,9 @@
 
 **Why application logs are vital:**
 Application logs record exactly what happened and when, such as which page was requested and whether it succeeded or failed, so an engineer can trace the cause of an error after the fact. Without them, troubleshooting a broken service would mean guessing instead of reading the evidence.
+
+## Checkpoint 5: Real-Time Container Metrics
+
+**Container:** client-website
+**Memory Usage:** 3.5MiB
+**CPU Percentage:** 0.00%
