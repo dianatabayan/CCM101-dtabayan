@@ -8,14 +8,9 @@ mission helped me with the next one.
 
 ## Missions 1 to 9: Building the Skills
 
-In the early missions, I learned the basics of cloud computing, virtualization,
-and working with Linux in the terminal. In the middle missions, I learned about
-networking, containers, Docker, and storage. [Add one or two sentences about
-the mission that was hardest for you, and what you learned from it.]
+In the early missions, I learned the basics of cloud computing, virtualization, and working with Linux in the terminal. In the middle missions, I learned about networking, containers, Docker, and storage. One of the hardest moments was in Mission 5, when a container image could not be pulled. I had to stop, read the error message, and find a working alternative. This taught me that the first way does not always work, and that I should look for another way.
 
-Some of these missions did not go smoothly, and that was where I learned the
-most. Fixing problems taught me to read error messages, test one thing at a
-time, and look for another way when the first way does not work.
+Some of these missions did not go smoothly, and that was where I learned the most. Fixing problems taught me to read error messages, test one thing at a time, and try a different approach when something fails.
 
 ## Mission 10: The Enterprise Cloud Architect
 
