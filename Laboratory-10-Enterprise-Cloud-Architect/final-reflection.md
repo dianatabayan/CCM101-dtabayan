@@ -1,4 +1,4 @@
-## Final Reflection
+### Final Reflection
 
 Before this course, I thought cloud computing was just "computers on the
 internet" that companies rent. Over ten missions, I learned that the cloud is
